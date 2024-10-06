@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+requests==2.32.3
+numpy==1.24.4
+fastapi==0.115.0
+deepface==0.0.93
+imageai==3.0.3
+insightface==0.7.3
